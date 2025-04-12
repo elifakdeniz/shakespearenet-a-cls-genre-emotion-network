@@ -1,0 +1,240 @@
+play_name,act,character,anger,disgust,fear,neutral,sadness,joy,surprise
+A Midsummer Night's Dream,1,Bottom,0,0.0,0.0,1,0.0,,
+A Midsummer Night's Dream,1,Demetrius,1,0.0,0.0,0,0.0,,
+A Midsummer Night's Dream,2,Demetrius,1,0.0,1.0,0,0.0,,
+A Midsummer Night's Dream,2,Puck,1,1.0,0.0,0,0.0,,
+A Midsummer Night's Dream,3,Bottom,0,0.0,1.0,0,0.0,,
+A Midsummer Night's Dream,3,Demetrius,0,0.0,0.0,0,1.0,,
+A Midsummer Night's Dream,3,Puck,0,0.0,2.0,0,0.0,,
+A Midsummer Night's Dream,4,Bottom,1,0.0,0.0,1,0.0,,
+A Midsummer Night's Dream,4,Demetrius,1,0.0,0.0,0,0.0,,
+A Midsummer Night's Dream,4,Puck,0,0.0,1.0,0,0.0,,
+A Midsummer Night's Dream,5,Bottom,0,0.0,0.0,1,0.0,,
+A Midsummer Night's Dream,5,Demetrius,0,1.0,0.0,0,0.0,,
+A Midsummer Night's Dream,5,Puck,0,0.0,0.0,0,1.0,,
+All's Well That Ends Well,1,Bertram,0,0.0,0.0,0,1.0,1.0,
+All's Well That Ends Well,1,Helena,1,0.0,0.0,0,1.0,0.0,
+All's Well That Ends Well,1,Parolles,1,0.0,0.0,0,0.0,0.0,
+All's Well That Ends Well,2,Bertram,1,1.0,0.0,1,0.0,0.0,
+All's Well That Ends Well,2,Helena,0,0.0,1.0,2,1.0,0.0,
+All's Well That Ends Well,2,Parolles,2,2.0,0.0,0,0.0,0.0,
+All's Well That Ends Well,3,Bertram,1,0.0,1.0,0,0.0,0.0,
+All's Well That Ends Well,3,Helena,0,0.0,1.0,2,0.0,0.0,
+All's Well That Ends Well,3,Parolles,0,0.0,0.0,1,1.0,0.0,
+All's Well That Ends Well,4,Bertram,1,0.0,0.0,0,1.0,0.0,
+All's Well That Ends Well,4,Helena,0,0.0,0.0,1,0.0,0.0,
+All's Well That Ends Well,4,Parolles,0,0.0,1.0,1,0.0,0.0,
+All's Well That Ends Well,5,Bertram,0,1.0,0.0,0,0.0,0.0,
+All's Well That Ends Well,5,Helena,0,0.0,1.0,1,0.0,0.0,
+All's Well That Ends Well,5,Parolles,0,2.0,0.0,0,0.0,0.0,
+As You Like It,1,Orlando,1,0.0,0.0,0,1.0,0.0,
+As You Like It,1,Rosalind,0,0.0,1.0,0,0.0,1.0,
+As You Like It,2,Jaques,0,0.0,0.0,0,2.0,0.0,
+As You Like It,2,Orlando,1,0.0,0.0,0,1.0,1.0,
+As You Like It,2,Rosalind,0,0.0,0.0,0,1.0,0.0,
+As You Like It,3,Jaques,0,2.0,0.0,0,0.0,0.0,
+As You Like It,3,Orlando,0,0.0,0.0,0,1.0,0.0,
+As You Like It,3,Rosalind,1,1.0,0.0,0,1.0,0.0,
+As You Like It,4,Jaques,0,0.0,0.0,1,1.0,0.0,
+As You Like It,4,Orlando,1,0.0,0.0,0,0.0,0.0,
+As You Like It,4,Rosalind,1,0.0,0.0,0,1.0,0.0,
+As You Like It,5,Jaques,0,0.0,0.0,1,0.0,0.0,
+As You Like It,5,Orlando,1,0.0,1.0,0,0.0,0.0,
+As You Like It,5,Rosalind,2,0.0,0.0,0,0.0,0.0,
+Cymbeline,1,Imogen,2,0.0,0.0,0,1.0,,
+Cymbeline,1,Pisanio,1,0.0,1.0,2,0.0,,
+Cymbeline,1,Posthumus Leonatus,1,0.0,0.0,0,1.0,,
+Cymbeline,2,Imogen,1,0.0,0.0,0,0.0,,
+Cymbeline,2,Pisanio,0,0.0,0.0,1,0.0,,
+Cymbeline,2,Posthumus Leonatus,1,0.0,1.0,0,0.0,,
+Cymbeline,3,Imogen,1,0.0,1.0,0,1.0,,
+Cymbeline,3,Pisanio,1,1.0,0.0,0,1.0,,
+Cymbeline,4,Imogen,0,0.0,1.0,0,0.0,,
+Cymbeline,4,Pisanio,0,0.0,1.0,0,0.0,,
+Cymbeline,5,Imogen,0,0.0,0.0,0,1.0,,
+Cymbeline,5,Pisanio,0,0.0,1.0,0,0.0,,
+Cymbeline,5,Posthumus Leonatus,2,1.0,1.0,0,0.0,,
+Love's Labours Lost,1,Adriano De Armado,0,0.0,,0,1.0,0.0,
+Love's Labours Lost,1,Biron,0,0.0,,0,1.0,0.0,
+Love's Labours Lost,1,Costard,0,1.0,,1,0.0,0.0,
+Love's Labours Lost,2,Biron,0,0.0,,0,1.0,0.0,
+Love's Labours Lost,3,Adriano De Armado,0,1.0,,0,0.0,0.0,
+Love's Labours Lost,3,Biron,1,0.0,,0,0.0,0.0,
+Love's Labours Lost,3,Costard,1,0.0,,0,0.0,0.0,
+Love's Labours Lost,4,Biron,0,0.0,,0,1.0,0.0,
+Love's Labours Lost,4,Costard,0,2.0,,1,0.0,0.0,
+Love's Labours Lost,5,Adriano De Armado,0,0.0,,1,0.0,1.0,
+Love's Labours Lost,5,Biron,1,0.0,,0,0.0,0.0,
+Love's Labours Lost,5,Costard,1,0.0,,0,0.0,1.0,
+Measure for Measure,1,Duke Vincentio,0,0.0,2.0,0,0.0,,
+Measure for Measure,1,Isabella,0,0.0,0.0,0,1.0,,
+Measure for Measure,1,Provost,1,0.0,0.0,0,0.0,,
+Measure for Measure,2,Duke Vincentio,1,0.0,0.0,0,0.0,,
+Measure for Measure,2,Isabella,0,0.0,0.0,0,2.0,,
+Measure for Measure,2,Provost,1,1.0,0.0,1,0.0,,
+Measure for Measure,3,Duke Vincentio,0,1.0,1.0,0,0.0,,
+Measure for Measure,3,Isabella,0,0.0,1.0,0,0.0,,
+Measure for Measure,3,Provost,0,0.0,0.0,1,1.0,,
+Measure for Measure,4,Duke Vincentio,0,0.0,1.0,3,0.0,,
+Measure for Measure,4,Isabella,1,0.0,1.0,0,1.0,,
+Measure for Measure,4,Provost,0,2.0,0.0,0,0.0,,
+Measure for Measure,5,Duke Vincentio,1,0.0,0.0,0,0.0,,
+Measure for Measure,5,Isabella,1,0.0,0.0,0,0.0,,
+Measure for Measure,5,Provost,0,0.0,0.0,0,1.0,,
+Much Ado About Nothing,1,Beatrice,0,1.0,0.0,0,0.0,0.0,0.0
+Much Ado About Nothing,1,Benedick,1,0.0,0.0,0,0.0,0.0,0.0
+Much Ado About Nothing,1,Leonato,1,0.0,0.0,0,0.0,1.0,0.0
+Much Ado About Nothing,2,Beatrice,0,0.0,0.0,1,1.0,0.0,0.0
+Much Ado About Nothing,2,Benedick,0,1.0,0.0,0,1.0,0.0,0.0
+Much Ado About Nothing,2,Leonato,1,0.0,0.0,0,1.0,0.0,0.0
+Much Ado About Nothing,3,Beatrice,1,0.0,1.0,0,0.0,0.0,0.0
+Much Ado About Nothing,3,Benedick,0,0.0,0.0,1,0.0,0.0,0.0
+Much Ado About Nothing,3,Leonato,0,0.0,0.0,1,1.0,0.0,0.0
+Much Ado About Nothing,4,Beatrice,1,0.0,0.0,0,0.0,0.0,0.0
+Much Ado About Nothing,4,Benedick,0,0.0,0.0,0,0.0,0.0,1.0
+Much Ado About Nothing,4,Leonato,1,0.0,0.0,0,0.0,0.0,0.0
+Much Ado About Nothing,5,Beatrice,2,0.0,0.0,0,0.0,0.0,0.0
+Much Ado About Nothing,5,Benedick,1,0.0,0.0,0,2.0,0.0,0.0
+Much Ado About Nothing,5,Leonato,0,0.0,0.0,1,1.0,0.0,0.0
+"Pericles, Prince of Tyre",1,Pericles,1,0.0,0.0,0,2.0,0.0,0.0
+"Pericles, Prince of Tyre",2,Gower,0,1.0,0.0,0,0.0,0.0,0.0
+"Pericles, Prince of Tyre",2,Pericles,2,0.0,0.0,1,0.0,0.0,0.0
+"Pericles, Prince of Tyre",2,Thaisa,0,1.0,0.0,1,0.0,1.0,0.0
+"Pericles, Prince of Tyre",3,Gower,0,0.0,1.0,0,0.0,0.0,0.0
+"Pericles, Prince of Tyre",3,Pericles,1,0.0,1.0,0,0.0,0.0,0.0
+"Pericles, Prince of Tyre",3,Thaisa,0,0.0,0.0,0,0.0,1.0,1.0
+"Pericles, Prince of Tyre",4,Gower,1,0.0,0.0,0,1.0,0.0,0.0
+"Pericles, Prince of Tyre",5,Gower,0,0.0,0.0,1,0.0,2.0,0.0
+"Pericles, Prince of Tyre",5,Pericles,1,0.0,1.0,0,0.0,0.0,0.0
+"Pericles, Prince of Tyre",5,Thaisa,1,0.0,0.0,0,0.0,0.0,0.0
+Taming of the Shrew,1,Katharina,0,0.0,1.0,0,,0.0,
+Taming of the Shrew,1,Lucentio,0,0.0,0.0,1,,1.0,
+Taming of the Shrew,1,Tranio,1,0.0,0.0,0,,1.0,
+Taming of the Shrew,2,Katharina,1,0.0,0.0,0,,0.0,
+Taming of the Shrew,2,Tranio,0,0.0,0.0,1,,0.0,
+Taming of the Shrew,3,Katharina,1,0.0,0.0,0,,0.0,
+Taming of the Shrew,3,Lucentio,0,0.0,1.0,1,,0.0,
+Taming of the Shrew,3,Tranio,0,0.0,0.0,1,,0.0,
+Taming of the Shrew,4,Katharina,1,0.0,0.0,0,,2.0,
+Taming of the Shrew,4,Lucentio,1,0.0,0.0,1,,0.0,
+Taming of the Shrew,4,Tranio,0,0.0,0.0,1,,1.0,
+Taming of the Shrew,5,Katharina,1,1.0,0.0,0,,0.0,
+Taming of the Shrew,5,Lucentio,0,0.0,0.0,0,,2.0,
+Taming of the Shrew,5,Tranio,1,0.0,1.0,0,,0.0,
+"The
+Merry Wives of Windsor",1,Mistress Quickly,1,0.0,0.0,0,0.0,0.0,
+"The
+Merry Wives of Windsor",1,Page,0,0.0,0.0,0,0.0,1.0,
+"The
+Merry Wives of Windsor",1,Sir Hugh Evans,0,1.0,0.0,1,0.0,0.0,
+"The
+Merry Wives of Windsor",2,Mistress Quickly,0,0.0,0.0,2,0.0,0.0,
+"The
+Merry Wives of Windsor",2,Page,0,1.0,0.0,1,0.0,0.0,
+"The
+Merry Wives of Windsor",3,Mistress Quickly,1,0.0,0.0,0,1.0,0.0,
+"The
+Merry Wives of Windsor",3,Page,0,1.0,1.0,2,0.0,0.0,
+"The
+Merry Wives of Windsor",3,Sir Hugh Evans,0,1.0,0.0,0,1.0,0.0,
+"The
+Merry Wives of Windsor",4,Mistress Quickly,1,0.0,0.0,0,1.0,0.0,
+"The
+Merry Wives of Windsor",4,Page,2,0.0,0.0,0,0.0,0.0,
+"The
+Merry Wives of Windsor",4,Sir Hugh Evans,1,1.0,0.0,2,0.0,0.0,
+"The
+Merry Wives of Windsor",5,Mistress Quickly,1,0.0,0.0,1,0.0,0.0,
+"The
+Merry Wives of Windsor",5,Page,0,0.0,0.0,1,1.0,0.0,
+"The
+Merry Wives of Windsor",5,Sir Hugh Evans,1,1.0,0.0,0,0.0,0.0,
+The Comedy of Errors,1,Dromio Of Syracuse,0,1.0,0.0,0,0.0,0.0,0.0
+The Comedy of Errors,2,Adriana,1,0.0,0.0,0,1.0,0.0,0.0
+The Comedy of Errors,2,Dromio Of Syracuse,0,0.0,0.0,0,0.0,1.0,0.0
+The Comedy of Errors,2,Luciana,2,0.0,0.0,0,0.0,0.0,0.0
+The Comedy of Errors,3,Adriana,0,0.0,0.0,0,0.0,0.0,1.0
+The Comedy of Errors,3,Dromio Of Syracuse,0,1.0,1.0,0,0.0,0.0,0.0
+The Comedy of Errors,3,Luciana,1,0.0,0.0,0,0.0,0.0,0.0
+The Comedy of Errors,4,Adriana,2,0.0,0.0,0,0.0,0.0,0.0
+The Comedy of Errors,4,Dromio Of Syracuse,1,1.0,0.0,2,0.0,0.0,0.0
+The Comedy of Errors,4,Luciana,2,0.0,0.0,0,0.0,0.0,0.0
+The Comedy of Errors,5,Adriana,1,0.0,0.0,0,0.0,0.0,0.0
+The Comedy of Errors,5,Dromio Of Syracuse,1,0.0,0.0,0,0.0,0.0,0.0
+The Comedy of Errors,5,Luciana,1,0.0,0.0,0,0.0,0.0,0.0
+The Merchant of Venice,1,Gratiano,0,1.0,0.0,0,0.0,0.0,
+The Merchant of Venice,1,Portia,1,0.0,0.0,0,0.0,0.0,
+The Merchant of Venice,2,Gratiano,0,0.0,0.0,1,0.0,2.0,
+The Merchant of Venice,2,Jessica,0,1.0,0.0,0,2.0,0.0,
+The Merchant of Venice,2,Portia,1,0.0,0.0,2,0.0,0.0,
+The Merchant of Venice,3,Gratiano,0,0.0,0.0,0,0.0,1.0,
+The Merchant of Venice,3,Jessica,0,1.0,1.0,1,0.0,0.0,
+The Merchant of Venice,3,Portia,0,0.0,1.0,0,1.0,0.0,
+The Merchant of Venice,4,Gratiano,1,0.0,0.0,1,0.0,0.0,
+The Merchant of Venice,4,Portia,0,0.0,1.0,1,0.0,0.0,
+The Merchant of Venice,5,Gratiano,0,0.0,0.0,1,0.0,0.0,
+The Merchant of Venice,5,Jessica,0,0.0,1.0,0,0.0,0.0,
+The Merchant of Venice,5,Portia,0,0.0,0.0,0,0.0,1.0,
+The Tempest,1,Ariel,0,,1.0,0,0.0,0.0,0.0
+The Tempest,1,Caliban,1,,0.0,0,0.0,0.0,0.0
+The Tempest,1,Prospero,0,,1.0,0,0.0,0.0,0.0
+The Tempest,2,Ariel,0,,1.0,0,0.0,0.0,0.0
+The Tempest,2,Caliban,0,,1.0,0,0.0,0.0,0.0
+The Tempest,3,Ariel,1,,0.0,1,0.0,0.0,0.0
+The Tempest,3,Caliban,1,,0.0,0,0.0,0.0,0.0
+The Tempest,3,Prospero,0,,0.0,0,0.0,1.0,1.0
+The Tempest,4,Ariel,1,,0.0,0,0.0,0.0,0.0
+The Tempest,4,Caliban,0,,1.0,0,0.0,0.0,0.0
+The Tempest,4,Prospero,1,,0.0,0,0.0,0.0,0.0
+The Tempest,5,Ariel,0,,0.0,0,1.0,0.0,0.0
+The Tempest,5,Caliban,0,,1.0,0,0.0,0.0,0.0
+The Tempest,5,Prospero,1,,0.0,0,0.0,0.0,0.0
+Troilus and Cressida,1,Troilus,1,0.0,0.0,0,0.0,0.0,
+Troilus and Cressida,2,Achilles,2,0.0,0.0,0,0.0,0.0,
+Troilus and Cressida,2,Diomedes,0,0.0,0.0,1,0.0,0.0,
+Troilus and Cressida,2,Troilus,0,0.0,1.0,0,0.0,0.0,
+Troilus and Cressida,3,Achilles,0,0.0,0.0,0,1.0,0.0,
+Troilus and Cressida,3,Diomedes,0,0.0,0.0,0,0.0,1.0,
+Troilus and Cressida,3,Troilus,0,0.0,1.0,0,0.0,0.0,
+Troilus and Cressida,4,Achilles,0,0.0,1.0,0,0.0,0.0,
+Troilus and Cressida,4,Diomedes,2,0.0,0.0,0,1.0,0.0,
+Troilus and Cressida,4,Troilus,2,1.0,0.0,0,1.0,0.0,
+Troilus and Cressida,5,Achilles,4,1.0,0.0,0,0.0,0.0,
+Troilus and Cressida,5,Diomedes,2,0.0,0.0,2,2.0,0.0,
+Troilus and Cressida,5,Troilus,3,0.0,1.0,1,1.0,0.0,
+Twelfth Night,1,Sir Andrew,0,0.0,0.0,1,0.0,,
+Twelfth Night,1,Sir Toby Belch,0,2.0,0.0,0,0.0,,
+Twelfth Night,1,Viola,0,1.0,0.0,1,1.0,,
+Twelfth Night,2,Sir Andrew,0,2.0,0.0,0,0.0,,
+Twelfth Night,2,Sir Toby Belch,2,0.0,0.0,0,0.0,,
+Twelfth Night,2,Viola,1,0.0,0.0,0,1.0,,
+Twelfth Night,3,Sir Andrew,2,0.0,0.0,1,0.0,,
+Twelfth Night,3,Sir Toby Belch,2,0.0,1.0,0,0.0,,
+Twelfth Night,3,Viola,1,1.0,0.0,0,0.0,,
+Twelfth Night,4,Sir Andrew,1,0.0,0.0,0,0.0,,
+Twelfth Night,4,Sir Toby Belch,2,0.0,0.0,0,0.0,,
+Twelfth Night,5,Sir Andrew,1,0.0,0.0,0,0.0,,
+Twelfth Night,5,Sir Toby Belch,1,0.0,0.0,0,0.0,,
+Twelfth Night,5,Viola,0,0.0,1.0,0,0.0,,
+Two Gentlemen of Verona,1,Julia,1,0.0,0.0,0,0.0,0.0,
+Two Gentlemen of Verona,1,Proteus,1,0.0,0.0,0,0.0,1.0,
+Two Gentlemen of Verona,2,Julia,1,0.0,0.0,1,0.0,0.0,
+Two Gentlemen of Verona,2,Proteus,1,0.0,0.0,1,1.0,0.0,
+Two Gentlemen of Verona,2,Silvia,1,0.0,0.0,1,0.0,0.0,
+Two Gentlemen of Verona,3,Proteus,1,0.0,0.0,0,1.0,0.0,
+Two Gentlemen of Verona,4,Julia,0,1.0,0.0,0,1.0,0.0,
+Two Gentlemen of Verona,4,Proteus,0,0.0,0.0,0,2.0,0.0,
+Two Gentlemen of Verona,4,Silvia,0,1.0,0.0,0,2.0,0.0,
+Two Gentlemen of Verona,5,Julia,1,0.0,0.0,0,1.0,0.0,
+Two Gentlemen of Verona,5,Proteus,0,0.0,0.0,1,1.0,0.0,
+Two Gentlemen of Verona,5,Silvia,0,0.0,1.0,0,2.0,0.0,
+Winter's Tale,1,Camillo,0,,1.0,1,0.0,,
+Winter's Tale,1,Leontes,0,,0.0,1,0.0,,
+Winter's Tale,2,Leontes,2,,0.0,0,0.0,,
+Winter's Tale,2,Paulina,1,,1.0,0,0.0,,
+Winter's Tale,3,Leontes,1,,0.0,0,0.0,,
+Winter's Tale,3,Paulina,0,,0.0,0,1.0,,
+Winter's Tale,4,Camillo,0,,1.0,0,1.0,,
+Winter's Tale,5,Camillo,0,,0.0,0,1.0,,
+Winter's Tale,5,Leontes,1,,0.0,0,1.0,,
+Winter's Tale,5,Paulina,0,,1.0,0,1.0,,
